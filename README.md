@@ -1,3 +1,6 @@
+## Author
+Sumaiya Nila
+
 # Student Portfolio
 
 This is my Git practical project.
@@ -7,3 +10,5 @@ Open index.html in browser
 
 ## Project Purpose
 This portfolio is created for Git practical assignment..
+## Features
+- Portfolio website
