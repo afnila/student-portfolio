@@ -19,3 +19,5 @@ This portfolio is created for Git practical assignment..
 Open index.html in browser
 assignment..
 → assignment.
+## Version
+v1.0
