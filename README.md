@@ -15,3 +15,5 @@ This portfolio is created for Git practical assignment..
 ## Technologies
 - HTML
 - CSS
+## Usage
+Open index.html in browser
