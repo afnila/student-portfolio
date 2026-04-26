@@ -6,4 +6,4 @@ This is my Git practical project.
 Open index.html in browser
 
 ## Project Purpose
-This portfolio is created for Git practical assignment.
+This portfolio is created for Git practical assignment..
