@@ -12,3 +12,6 @@ Open index.html in browser
 This portfolio is created for Git practical assignment..
 ## Features
 - Portfolio website
+## Technologies
+- HTML
+- CSS
