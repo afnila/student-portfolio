@@ -17,3 +17,5 @@ This is my Git practical assignment project.
 - README.md
 - CHANGELOG.md
 - .gitignore
+## Git Practice
+This project demonstrates commits, branches, merging, conflict resolution, undo, and tagging.
