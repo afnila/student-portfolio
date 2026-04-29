@@ -10,16 +10,4 @@ Open index.html in browser
 
 ## Project Purpose
 This portfolio is created for Git practical assignment..
-## Features
-- Portfolio website
-## Technologies
-- HTML
-- CSS
-## Usage
-Open index.html in browser
-assignment..
-→ assignment.
-## Version
-v1.0
-## Status
-Completed
+This is my Git practical assignment project.
