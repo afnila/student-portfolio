@@ -1,3 +1,6 @@
+## Author
+Sumaiya Nila
+
 # Student Portfolio
 
 This is my Git practical project.
@@ -7,8 +10,4 @@ Open index.html in browser
 
 ## Project Purpose
 This portfolio is created for Git practical assignment..
-
-## Documentation
-This section explains the project details.
-
-Project includes Git branching and merging practice.
+This is my Git practical assignment project.
