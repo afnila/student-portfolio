@@ -10,3 +10,5 @@ This portfolio is created for Git practical assignment..
 
 ## Documentation
 This section explains the project details.
+
+Project includes Git branching and merging practice.
