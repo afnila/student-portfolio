@@ -3,7 +3,7 @@ Sumaiya Nila
 
 # Student Portfolio
 
-This is my Git practical project.
+This is my Git assignment project.
 
 ## How to run
 Open index.html in browser
